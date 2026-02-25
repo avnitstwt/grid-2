@@ -5,7 +5,7 @@
 }
 
 .container{
-    display: grid;
+    display: flex;
     grid-template-areas: 'banga banga banga''mys mys mys';
 }
 .boxs{
